@@ -67,11 +67,11 @@ Usage: `![](https://connect.localazy.com/status/floating-apps?logo=[true|RRGGBB]
 | Value |  Demo | Description |
 | --- | --- | --- |
 | true | ![](https://connect.localazy.com/status/floating-apps?logo=true) | Just use the logo with the default white color.  |
-| localazy | ![](https://connect.localazy.com/status/floating-apps?logo=ff0000) | Change the color if necessary. The color code is provided in HEX RRGGBB format. |
+| RRGBB | ![](https://connect.localazy.com/status/floating-apps?logo=ff0000) | Change the color if necessary. The color code is provided in HEX RRGGBB format. |
 
 ## Style
 
-All styles from [shields.io](shields.io) are supported. 
+All styles from [shields.io](https://shields.io) are supported. 
 
 Usage: `![](https://connect.localazy.com/status/floating-apps?style=[value])`
 
