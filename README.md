@@ -1,8 +1,10 @@
 # Localazy Shields
 
-Share the localization progress of your app or project publicly with your contributors, volunteers and translators. And get more of them ;-). 
+Share the localization progress of your app or project publicly with your contributors, volunteers and translators. And get more of them :wink:. 
 
-Example: [![Localization progress](https://connect.localazy.com/status/floating-apps?logo=true&style=for-the-badge)](https://localazy.com/p/floating-apps)
+Example: 
+
+[![Localization progress](https://connect.localazy.com/status/floating-apps?logo=true&style=for-the-badge)](https://localazy.com/p/floating-apps)
 
 ## Format
 
