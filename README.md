@@ -34,11 +34,11 @@ Usage: `![](https://connect.localazy.com/status/floating-apps?content=[value])`
  
 | Value | Demo | Description |
 | --- | --- | --- |
-| all | ![](https://connect.localazy.com/status/floating-apps?content=all) | The overal project progress and the number of langs. |
-| progress | ![](https://connect.localazy.com/status/floating-apps?content=progress) | The overal project progress. |
-| langs | ![](https://connect.localazy.com/status/floating-apps?content=langs) | The number of langs including text. |
-| langs-count | ![](https://connect.localazy.com/status/floating-apps?content=langs-count) | Only the number of langs. |
-| *locale code* | ![](https://connect.localazy.com/status/floating-apps?content=fr_CA) | The progress for the given language. The valid format for locale code is described below. |
+| all | [![](https://connect.localazy.com/status/floating-apps?content=all)](https://localazy.com/p/floating-apps) | The overal project progress and the number of langs. |
+| progress | [![](https://connect.localazy.com/status/floating-apps?content=progress)](https://localazy.com/p/floating-apps) | The overal project progress. |
+| langs | [![](https://connect.localazy.com/status/floating-apps?content=langs)](https://localazy.com/p/floating-apps) | The number of langs including text. |
+| langs-count | [![](https://connect.localazy.com/status/floating-apps?content=langs-count)](https://localazy.com/p/floating-apps) | Only the number of langs. |
+| *locale code* | [![](https://connect.localazy.com/status/floating-apps?content=fr_CA)](https://localazy.com/p/floating-apps) | The progress for the given language. The valid format for locale code is described below. |
 
 ## Title
 
@@ -49,14 +49,14 @@ Usage: `![](https://connect.localazy.com/status/floating-apps?title=[value])`
 | Value |  Demo | Description |
 | --- | --- | --- |
 | default | - | Use `lang-code` for locale-specific shield, otherwise use `localazy`. |
-| localazy | ![](https://connect.localazy.com/status/floating-apps?title=localazy) | |
-| translated | ![](https://connect.localazy.com/status/floating-apps?title=translated) | |
-| localized | ![](https://connect.localazy.com/status/floating-apps?title=localized) | |
-| localization | ![](https://connect.localazy.com/status/floating-apps?title=localization) | |
-| translation | ![](https://connect.localazy.com/status/floating-apps?title=translation) | |
-| lang-loc-name | ![](https://connect.localazy.com/status/floating-apps?title=lang-loc-name&content=fr_CA) | The localized name. |
-| lang-name | ![](https://connect.localazy.com/status/floating-apps?title=lang-name&content=fr_CA) | The English name. |
-| lang-code | ![](https://connect.localazy.com/status/floating-apps?title=lang-code&content=fr_CA) | The locale code. |
+| localazy | [![](https://connect.localazy.com/status/floating-apps?title=localazy)](https://localazy.com/p/floating-apps) | |
+| translated | [![](https://connect.localazy.com/status/floating-apps?title=translated)](https://localazy.com/p/floating-apps) | |
+| localized | [![](https://connect.localazy.com/status/floating-apps?title=localized)](https://localazy.com/p/floating-apps) | |
+| localization | [![](https://connect.localazy.com/status/floating-apps?title=localization)](https://localazy.com/p/floating-apps) | |
+| translation | [![](https://connect.localazy.com/status/floating-apps?title=translation)](https://localazy.com/p/floating-apps) | |
+| lang-loc-name | [![](https://connect.localazy.com/status/floating-apps?title=lang-loc-name&content=fr_CA)](https://localazy.com/p/floating-apps) | The localized name. |
+| lang-name | [![](https://connect.localazy.com/status/floating-apps?title=lang-name&content=fr_CA)](https://localazy.com/p/floating-apps) | The English name. |
+| lang-code | [![](https://connect.localazy.com/status/floating-apps?title=lang-code&content=fr_CA)](https://localazy.com/p/floating-apps) | The locale code. |
 
 ## Logo
 
@@ -66,8 +66,8 @@ Usage: `![](https://connect.localazy.com/status/floating-apps?logo=[true|RRGGBB]
 
 | Value |  Demo | Description |
 | --- | --- | --- |
-| true | ![](https://connect.localazy.com/status/floating-apps?logo=true) | Just use the logo with the default white color.  |
-| RRGBB | ![](https://connect.localazy.com/status/floating-apps?logo=ff0000) | Change the color if necessary. The color code is provided in HEX RRGGBB format. |
+| true | [![](https://connect.localazy.com/status/floating-apps?logo=true)](https://localazy.com/p/floating-apps) | Just use the logo with the default white color.  |
+| RRGGBB | [![](https://connect.localazy.com/status/floating-apps?logo=ff0000)](https://localazy.com/p/floating-apps) | Change the color if necessary. The color code is provided in HEX RRGGBB format. |
 
 ## Style
 
@@ -77,11 +77,11 @@ Usage: `![](https://connect.localazy.com/status/floating-apps?style=[value])`
 
 | Value |  Demo | 
 | --- | --- | 
-| plastic | ![](https://connect.localazy.com/status/floating-apps?style=plastic) |
-| flat | ![](https://connect.localazy.com/status/floating-apps?style=flat) |
-| flat-square | ![](https://connect.localazy.com/status/floating-apps?style=flat-square) |
-| for-the-badge | ![](https://connect.localazy.com/status/floating-apps?style=for-the-badge) |
-| social | ![](https://connect.localazy.com/status/floating-apps?style=social) |
+| plastic | [![](https://connect.localazy.com/status/floating-apps?style=plastic)](https://localazy.com/p/floating-apps) |
+| flat | [![](https://connect.localazy.com/status/floating-apps?style=flat)](https://localazy.com/p/floating-apps) |
+| flat-square | [![](https://connect.localazy.com/status/floating-apps?style=flat-square)](https://localazy.com/p/floating-apps) |
+| for-the-badge | [![](https://connect.localazy.com/status/floating-apps?style=for-the-badge)](https://localazy.com/p/floating-apps) |
+| social | [![](https://connect.localazy.com/status/floating-apps?style=social)](https://localazy.com/p/floating-apps) |
 
 ## Locale Code Format
 
