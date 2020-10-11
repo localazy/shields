@@ -10,7 +10,7 @@ Example:
 
 The basic URL is:
 
-`[![Alt text](https://connect.localazy.com/status/[project-id])](https://localazy.com/p/[project-id])`
+`https://connect.localazy.com/status/[project-id])](https://localazy.com/p/[project-id]`
 
 There are four parameters that allows you to override texts, look and feel:
 
@@ -21,9 +21,7 @@ There are four parameters that allows you to override texts, look and feel:
 
 The full URL looks like:
 
-`[![Alt text](https://connect.localazy.com/status/[project-id]?title=...&content=...&style=...&logo=...)](https://localazy.com/p/[project-id])`
-
-
+`https://connect.localazy.com/status/[project-id]?title=...&content=...&style=...&logo=...`
 
 
 ## Content
