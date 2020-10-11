@@ -10,7 +10,7 @@ Example:
 
 The basic URL is:
 
-`https://connect.localazy.com/status/[project-id])](https://localazy.com/p/[project-id]`
+`https://connect.localazy.com/status/[project-id]`
 
 There are four parameters that allows you to override texts, look and feel:
 
