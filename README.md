@@ -4,7 +4,7 @@ Share the localization progress of your app or project publicly with your contri
 
 Example: 
 
-[![Localization progress](https://connect.localazy.com/status/floating-apps?logo=true&style=for-the-badge)](https://localazy.com/p/floating-apps)
+[![Localization progress](https://connect.localazy.com/status/floating-apps?logo=true)](https://localazy.com/p/floating-apps)
 
 ## Format
 
